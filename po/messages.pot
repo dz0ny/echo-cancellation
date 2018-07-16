@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-16 10:22+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: schemas/echo-cancellation.gschema.xml:6
+msgid "Show notifications"
+msgstr ""
+
+#: schemas/echo-cancellation.gschema.xml:7
+msgid ""
+"On enable show notifications when enable or disable loopback for the "
+"microphone"
+msgstr ""
+
+#: preferenceswidget.js:167
+msgid "Nothing"
+msgstr ""
+
+#: preferenceswidget.js:180
+msgid "True"
+msgstr ""
+
+#: preferenceswidget.js:193
+msgid "False"
+msgstr ""
+
+#: extension.js:83
+msgid "Touchpad status"
+msgstr ""
+
+#: extension.js:85 extension.js:133
+msgid "Enable Microphone Echo-Cancellation"
+msgstr ""
+
+#: extension.js:91
+msgid "Settings"
+msgstr ""
+
+#: extension.js:119
+msgid "Disable Microphone Echo-Cancellation"
+msgstr ""
+
+#: extension.js:122
+msgid "Microphone Echo-Cancellation is enabled for default input."
+msgstr ""
+
+#: extension.js:136
+msgid "Microphone Echo-Cancellation disabled for all inputs."
+msgstr ""
+
+#: extension.js:152
+msgid "Help"
+msgstr ""
+
+#: extension.js:154
+msgid "Project Page"
+msgstr ""
+
+#: extension.js:156
+msgid "Report a bug..."
+msgstr ""
+
+#: extension.js:159
+msgid "Website"
+msgstr ""
+
+#: extension.js:161
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: prefs.js:59
+msgid "Microphone Echo-Cancellation"
+msgstr ""
+
+#: prefs.js:64
+msgid "Version: "
+msgstr ""
+
+#: prefs.js:82
+msgid "Copyright © 2018 Janez Troha"
+msgstr ""
+
+#: prefs.js:89
+msgid "This program is free software: you can redistribute it and/or modify"
+msgstr ""
+
+#: prefs.js:90
+msgid "it under the terms of the GNU General Public License as published by"
+msgstr ""
+
+#: prefs.js:91
+msgid "the Free Software Foundation, either version 3 of the License, or"
+msgstr ""
+
+#: prefs.js:92
+msgid "(at your option) any later version."
+msgstr ""
+
+#: prefs.js:93
+msgid "This program is distributed in the hope that it will be useful,"
+msgstr ""
+
+#: prefs.js:94
+msgid "but WITHOUT ANY WARRANTY; without even the implied warranty of"
+msgstr ""
+
+#: prefs.js:95
+msgid "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the"
+msgstr ""
+
+#: prefs.js:96
+msgid "GNU General Public License for more details."
+msgstr ""
+
+#: prefs.js:97
+msgid "You should have received a copy of the GNU General Public License"
+msgstr ""
+
+#: prefs.js:98
+msgid ""
+"along with this program.  If not, see <a href=\"https://www.gnu.org/licenses/"
+"\">https://www.gnu.org/licenses/</a>."
+msgstr ""
+
+#: prefs.js:115
+msgid "Preferences"
+msgstr ""
+
+#: prefs.js:119
+msgid "Select latency"
+msgstr ""
+
+#: prefs.js:125
+msgid "About"
+msgstr ""

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="echo-cancellation@dz0ny.xyz">
+    <schema path="/xyz/dz0ny/echo-cancellation/" id="xyz.dz0ny.echo-cancellation">
+        <key name="loopback" type="b">
+            <default>false</default>
+            <summary>Loopback</summary>
+            <description>Enable and disable the echo-cancellation for the microphone.</description>
+        </key>
+        <key name="notifications" type="b">
+            <default>false</default>
+            <summary>Show notifications</summary>
+            <description>On enable show notifications when enable or disable loopback for the microphone</description>
+        </key>
+    </schema>
+</schemalist>

@@ -1,0 +1,13 @@
+{
+    "name": "Microphone Echo-Cancellation",
+    "description": "This extension enables echo-cancellation for a microphone.",
+    "shell-version": [
+        "3.26",
+        "3.28"
+    ],
+    "url": "https://github.com/dz0ny/echo-cancellation", 
+    "uuid": "echo-cancellation@dz0ny.xyz",
+    "gettext-domain": "echo-cancellation@dz0ny.xyz", 
+    "settings-schema": "xyz.dz0ny.echo-cancellation",
+    "version": 3
+}
