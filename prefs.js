@@ -86,16 +86,7 @@ class AboutWidget extends Gtk.Grid{
 
         let aboutLicense = new Gtk.Label({
             label: "<small>" +
-            _("This program is free software: you can redistribute it and/or modify") + "\n" +
-            _("it under the terms of the GNU General Public License as published by") + "\n" +
-            _("the Free Software Foundation, either version 3 of the License, or") + "\n" +
-            _("(at your option) any later version.") + "\n\n" +
-            _("This program is distributed in the hope that it will be useful,") + "\n" +
-            _("but WITHOUT ANY WARRANTY; without even the implied warranty of") + "\n" +
-            _("MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the") + "\n" +
-            _("GNU General Public License for more details.") + "\n\n" +
-            _("You should have received a copy of the GNU General Public License") + "\n" +
-            _("along with this program.  If not, see <a href=\"https://www.gnu.org/licenses/\">https://www.gnu.org/licenses/</a>.") + "\n" +
+            _("This program is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation, either version 3 of the License, or\n(at your option) any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with this program.  If not, see <a href=\"https://www.gnu.org/licenses/\">https://www.gnu.org/licenses/</a>.") + "\n" +
             "</small>",
             use_markup: true,
             justify: Gtk.Justification.CENTER
